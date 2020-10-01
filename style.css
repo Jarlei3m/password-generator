@@ -93,6 +93,10 @@ h1 {
     margin: 0.7rem 0;
 }
 
+.form-control input {
+    cursor: pointer;
+}
+
 .form-control small {
     font-size: 8px;
     margin-left: 4px;
